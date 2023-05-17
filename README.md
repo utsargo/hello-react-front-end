@@ -58,7 +58,7 @@ This app is build with Ruby on Rails and Postgresql.
 
 In order to run this project you need:
 
-- Mac or PC
+- Linux (preferred), Mac or PC
 - Install Node
 - Install create-react-app
 
